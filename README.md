@@ -13,5 +13,4 @@ Abra o terminal e navegue até o diretório do projeto. Em seguida, execute o co
 ```bash
 $ yarn install
 ou
-```bash
 $ npm install
