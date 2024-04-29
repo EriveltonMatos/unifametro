@@ -3,6 +3,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - Git
 - Node.js
 - Yarn ou npm
+- Java
 
 ## Como Executar o Projeto
 Siga os passos abaixo para executar o projeto em sua máquina:
